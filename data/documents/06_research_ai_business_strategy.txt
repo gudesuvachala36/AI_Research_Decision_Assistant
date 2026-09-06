@@ -1,0 +1,22 @@
+RESEARCH PAPER SUMMARY
+
+Title: Artificial Intelligence and Business Strategy towards Digital Transformation: A Research Agenda
+Authors: Fotis Kitsios and Maria Kamariotou
+Journal: Sustainability
+Year: 2021
+DOI: 10.3390/su13042025
+
+Summary:
+This paper reviews research connecting artificial intelligence with corporate strategy and digital transformation. The authors analyze 81 peer-reviewed articles and develop a theoretical model describing how AI can create organizational value.
+
+The paper identifies several important areas: AI and machine learning in organizations; alignment between AI, information technology, and organizational strategy; AI, knowledge management and decision-making; and AI-enabled service innovation.
+
+For a business RAG system, this paper is useful because it connects technical AI capabilities with management questions. It suggests that organizations should consider strategic alignment and value creation rather than evaluating AI only as a technical tool.
+
+RAG test questions:
+1. How many peer-reviewed articles were reviewed?
+2. What are the major sources of AI-enabled value identified by the paper?
+3. Why is strategic alignment important for AI adoption?
+
+Source:
+https://www.mdpi.com/2071-1050/13/4/2025

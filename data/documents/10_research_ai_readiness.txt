@@ -1,0 +1,22 @@
+RESEARCH PAPER SUMMARY
+
+Title: From digitalization maturity to AI readiness: implications for organizational performance in SMEs in a Swedish county
+Author: Einav Peretz Andersson
+Journal: Information Systems and e-Business Management
+Year: 2026
+
+Summary:
+This open-access study examines the relationship between digitalization maturity, AI readiness, and organizational performance in small and medium-sized enterprises.
+
+The study is relevant to AI strategy because organizations may need a foundation of digital capabilities before advanced AI can produce business value. Digital infrastructure, organizational practices, data capabilities, and readiness can affect the ability of SMEs to adopt AI effectively.
+
+Business implication:
+A company should assess its current digital maturity before launching complex AI projects. Improving data quality, processes, digital skills, and infrastructure may be necessary prerequisites for successful AI adoption.
+
+RAG test questions:
+1. What is the relationship examined by the study?
+2. Why can digital maturity matter before AI adoption?
+3. What capabilities can support AI readiness?
+
+Source:
+https://link.springer.com/article/10.1007/s10257-026-00740-x

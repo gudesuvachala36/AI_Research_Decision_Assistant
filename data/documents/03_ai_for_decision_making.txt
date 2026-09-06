@@ -1,0 +1,16 @@
+BUSINESS ARTICLE: AI FOR BUSINESS DECISION-MAKING
+
+Title: AI as a Decision-Support System
+
+Business decisions often require information from many sources. Managers may need to compare sales trends, customer behavior, operational costs, market conditions, and strategic goals.
+
+An AI decision-support system can retrieve relevant business documents and data, summarize evidence, compare alternatives, and present risks. A RAG-based assistant can answer questions from internal reports while linking recommendations to supporting passages.
+
+For example, a manager might ask: "Should we expand this product into a new region?" A useful assistant could retrieve sales reports, customer research, cost information, and previous expansion analyses. It could then organize evidence into opportunities, risks, assumptions, and unanswered questions.
+
+AI should not automatically replace managerial judgment. Business recommendations can depend on incomplete data, changing market conditions, and organizational constraints.
+
+A strong decision-support workflow therefore includes evidence retrieval, analysis, uncertainty identification, and human review.
+
+Key lesson:
+The value of AI decision support comes from helping people make better-informed decisions, not from eliminating human responsibility.

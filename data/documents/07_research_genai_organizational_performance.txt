@@ -1,0 +1,23 @@
+RESEARCH PAPER SUMMARY
+
+Title: Assessing the nexus of Generative AI adoption, ethical considerations and organizational performance
+Authors: Nripendra P. Rana, Rajasshrie Pillai, Brijesh Sivathanu, and Nishtha Malik
+Journal: Technovation
+Year: 2024
+DOI: 10.1016/j.technovation.2024.103064
+
+Summary:
+This open-access research study investigates how organizations adopt generative AI and how adoption relates to organizational performance. The researchers surveyed 384 managers from information technology and IT-enabled services companies and analyzed the proposed relationships using PLS-SEM.
+
+The study examines institutional pressures and ethical considerations including fairness, accountability, transparency, accuracy, and autonomy. It reports that institutional pressures influence organizational GenAI use and that ethical principles are relevant to adoption. The study also reports a relationship between GenAI use and organizational performance, with organizational innovativeness affecting this relationship.
+
+Business implication:
+AI adoption should be evaluated together with organizational capabilities and responsible-use practices. A company may gain limited value from technology if employees, processes, governance, and innovation capabilities are not prepared.
+
+RAG test questions:
+1. How many managers participated in the study?
+2. What ethical principles were examined?
+3. What organizational factor moderated the relationship with performance?
+
+Source:
+https://www.sciencedirect.com/science/article/pii/S0166497224001147

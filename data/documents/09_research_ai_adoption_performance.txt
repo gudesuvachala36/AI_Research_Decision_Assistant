@@ -1,0 +1,22 @@
+RESEARCH PAPER SUMMARY
+
+Title: Artificial Intelligence Adoption and Organizational Performance: The Role of Organizational Agility and Management Commitment in AI-Enabled Work Environments
+Authors: Mohammed Ali Aldossary, Tamer Hamdy Ayad, and Mohamed A. Moustafa
+Journal: Societies
+Year: 2026
+
+Summary:
+This research examines AI adoption and organizational performance while paying attention to organizational factors. The study emphasizes that AI is increasingly incorporated into organizational functions to streamline processes and improve performance.
+
+The research is relevant to business decision-making because technology adoption does not happen independently of management and organizational capabilities. Organizational agility and management commitment can influence whether AI initiatives are translated into useful outcomes.
+
+Business implication:
+Organizations should treat AI adoption as a coordinated business transformation effort. Leadership support, organizational adaptability, employee involvement, and appropriate processes can influence the results of AI initiatives.
+
+RAG test questions:
+1. What organizational factors are highlighted by the paper?
+2. Why is management commitment relevant to AI adoption?
+3. Why might AI adoption alone be insufficient?
+
+Source:
+https://www.mdpi.com/2075-4698/16/5/138
