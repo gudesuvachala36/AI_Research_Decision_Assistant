@@ -7,6 +7,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
+# Load the API key from Streamlit Cloud Secrets
+if "GEMINI_API_KEY" in st.secrets:
+    os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
+
 from rag_pipeline import (
     load_documents,
     create_chunks,
